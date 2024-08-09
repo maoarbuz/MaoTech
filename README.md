@@ -1,5 +1,7 @@
 
 # MaoTech plugin for Towny
+![2024-08-10_01 10 10](https://github.com/user-attachments/assets/7d3def88-2e96-436b-bbe1-27811a60d563)
+
 
 ## Description
 
@@ -8,8 +10,8 @@ MaoTech is a plugin that adds the ability to research different types of tools i
 ## Installation
 
 To install MaoTech you need to:
-1. Download the .jar file from GitHub or SpigotMC
-2. Place the .jar file in the plugins folder
+1. Download the .jar file from GitHub or SpigotMC and download the Towny plugin
+2. Place the .jar file and Towny plugin in the plugins folder
 3. Reboot the server
 
 ## Configuration
@@ -32,6 +34,8 @@ Example configuration file:
 
 The mayor of each city can enter the `/technologies` command to research a new technology and a menu will open! Researching a new technology costs a certain amount of resources
 But there is also the option to research via the /mttech stone/iron/golden/diamond/netherite_tools command
+![2024-08-10_01 10 39](https://github.com/user-attachments/assets/8bb7a022-9f1b-4308-8e20-77cfd383e3b0)
+
 
 ## Developer
 
