@@ -1,0 +1,7 @@
+name: MaoTech
+version: '${project.version}'
+main: me.maottechnologies.MaoTech
+api-version: 1.16
+commands:
+  mttech:
+  technologies:
