@@ -23,6 +23,7 @@ How the configuration file works:
 2. After researching a city a new line is added to the city, for example if iron tools were researched it adds: iron_tools: true
 3. You can add and change different researches
 Example configuration file:
+
 `Amogus:
   stone_tools: true
   iron_tools: true
